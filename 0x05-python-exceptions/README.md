@@ -1,5 +1,5 @@
 # This python code was written by:
-* **[Adefemi Adelugba](https://github.com/khing-fm)
+* ## [Adefemi Adelugba](https://github.com/khing-fm)
 
 ## This Program;
 *   Write a function that prints x elements of a list.

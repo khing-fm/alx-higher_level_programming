@@ -1,4 +1,8 @@
 #!/usr/bin/node
-for (const line of ['C is fun', 'Python is cool', 'JavaScript is amazing']) {
-  console.log(line);
+const myStr = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
+let index = 0;
+
+while (index < 3) {
+  console.log(myStr[index]);
+  index++;
 }
